@@ -2,9 +2,6 @@ import javax.swing.*;
 import net.miginfocom.swing.*;
 /*
  * Created by JFormDesigndsaf;']
- * .DSfg ];[\L.'WRAT EGer on Sun May 19 12:56:17 CEST 2019
- * KURWAfasdfasdfasdf asd
- * asdkj;asd;lkasnd;laksnda';slkdas'lkdnas'ldknas'ldkasd
  */
 
 
