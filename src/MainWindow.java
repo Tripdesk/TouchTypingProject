@@ -1,11 +1,5 @@
 import javax.swing.*;
 import net.miginfocom.swing.*;
-/*
- * Created by JFormDesigndsaf;']
- */
-
-
-
 /**
  * @author unknown
  */
