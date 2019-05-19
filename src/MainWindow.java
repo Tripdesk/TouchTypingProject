@@ -1,7 +1,8 @@
 import javax.swing.*;
 import net.miginfocom.swing.*;
 /*
- * Created by JFormDesigner on Sun May 19 12:56:17 CEST 2019
+ * Created by JFormDesigndsaf;']
+ * .DSfg ];[\L.'WRAT EGer on Sun May 19 12:56:17 CEST 2019
  * sadasdasdasd
  */
 
